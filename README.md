@@ -21,6 +21,6 @@ Skills: PHP
 
 ![GitHub metrics](https://metrics.lecoq.io/TxtCloudDE)  
 
-![GitHub streak stats](https://github-readme-streak-stats.herokuapp.com/?user=TxtCloudDE)  
+
 
 ![Profile views](https://gpvc.arturio.dev/TxtCloudDE)  
