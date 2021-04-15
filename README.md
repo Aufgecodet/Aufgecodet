@@ -3,14 +3,32 @@
 <!--
 **TxtCloudDE/TxtCloudDE** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
-Here are some ideas to get you started:
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+Hey ich bin TxtCloudDE  und Pocketmine-MP Developer
+
+Ich behersche:
+
+-PHP
+
+
+Ich lerne: 
+
+-Java
+
+
+
+Meine Hobbys:
+
+-Coden
+
+
+Hier kannst du mich kontaktieren:
+
+Discord:
+TxtCloudDE#8778
+
+YouTube:
+
+TxtCloudDE
+
+
