@@ -1,34 +1,14 @@
 ### Hi there 👋
 
-<!--
-**TxtCloudDE/TxtCloudDE** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Ich bin TxtCloudDE und code PocketMine-MP .
 
 
-Hey ich bin TxtCloudDE  und Pocketmine-MP Developer
-
-Ich behersche:
-
--PHP
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=TxtCloudDE)](https://github.com/anuraghazra/github-readme-stats)
 
 
-Ich lerne: 
+Discord : TxtCloudDE#8778
+YouTube: TxtCloudDE
 
--Java
-
-
-
-Meine Hobbys:
-
--Coden
-
-
-Hier kannst du mich kontaktieren:
-
-Discord:
-TxtCloudDE#8778
-
-YouTube:
-
-TxtCloudDE
+Bei geschäftlichen Anfragen bitte mich auf Discord kontaktieren.
 
 
