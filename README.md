@@ -1,9 +1,10 @@
 #
 
 
-
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=TxtCloudDE)](https://github.com/anuraghazra/github-readme-stats)
+I am TxtCloudDE
 
 ![GitHub stats](https://github-readme-stats.vercel.app/api?username=TxtCloudDE&show_icons=true)  
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=TxtCloudDE)](https://github.com/anuraghazra/github-readme-stats)
 
 
