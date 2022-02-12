@@ -5,7 +5,7 @@
 <p align="left">
 
   Discord: Aufgecodet#0654<br>
-"https://www.youtube.com/channel/UCFBuXic5TeYkzmTc02_mmyg" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/youtube.svg" alt="Aufgecodet Channel" height="30" width="40" /></a>
+"https://www.youtube.com/channel/UCFBuXic5TeYkzmTc02_mmyg"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/youtube.svg" alt="Aufgecodet Channel" height="30" width="40" /></a>
 </p>
 
 <h3 align="left">Languages and Stats:</h3>
