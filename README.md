@@ -7,4 +7,4 @@
 </p>
 <h3 align="left">Languages and Stats:</h3>
 <p align="left"> <a href="https://www.php.net" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/php/php-original.svg" alt="php" width="40" height="40"/> </a> </p>
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=txtcloudde&show_icons=true&locale=en" alt="Aufgecodetstats" /></p>
+
