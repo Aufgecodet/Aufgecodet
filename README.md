@@ -6,4 +6,3 @@
 <p align="left">
 
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=aufgecodet&show_icons=true&locale=en" alt="Aufgecodet stats" /></p>
