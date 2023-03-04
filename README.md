@@ -3,7 +3,6 @@
 <h1 align="center">I'm Aufgecodet</h1>
 <h3 align="center">Development and Management of play.rushervace.net Network</h3>
 
-<h3 align="left">Contact:</h3>
 <p align="left">
 
 
